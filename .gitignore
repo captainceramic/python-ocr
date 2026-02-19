@@ -1,0 +1,4 @@
+.venv
+docs
+uv.lock
+output.txt
